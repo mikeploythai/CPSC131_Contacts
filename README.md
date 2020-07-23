@@ -1,4 +1,4 @@
-# contactsCPP
+# CPSC131_Contacts
 This is a contacts app ran through the terminal.  You can create contacts and view contact lists.
 
 ## How to Use
